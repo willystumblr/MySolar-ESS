@@ -1,0 +1,890 @@
+training building  0 .....
+        Epoch: 0000 train loss : 0.1758
+        Epoch: 0010 train loss : 0.0070
+        Epoch: 0020 train loss : 0.0048
+        Epoch: 0030 train loss : 0.0041
+        Epoch: 0040 train loss : 0.0035
+        Epoch: 0050 train loss : 0.0032
+        Epoch: 0060 train loss : 0.0030
+        Epoch: 0070 train loss : 0.0028
+        Epoch: 0080 train loss : 0.0026
+        Epoch: 0090 train loss : 0.0026
+        Epoch: 0100 train loss : 0.0026
+        Epoch: 0110 train loss : 0.0025
+        Epoch: 0120 train loss : 0.0025
+         => Early Stopping
+         [[3659.9  656.9]
+ [4656.6  911.3]
+ [5222.7  958.3]
+ ...
+ [3111.   917.1]
+ [3090.2  917.2]
+ [3150.7  911.5]] [[4997.5  963. ]
+ [5000.   967.8]
+ [5000.   972.7]
+ ...
+ [3178.5  902. ]
+ [3101.1  905.1]
+ [3095.6  908.1]]
+        MAE SCORE :  0.024191951
+        MSE SCORE :  0.005105314
+        MAE SCORE_inv :  76.84155885538136
+        MSE SCORE_inv :  24236.526727342916
+training building  1 .....
+        Epoch: 0000 train loss : 0.1664
+        Epoch: 0010 train loss : 0.0062
+        Epoch: 0020 train loss : 0.0045
+        Epoch: 0030 train loss : 0.0036
+        Epoch: 0040 train loss : 0.0031
+        Epoch: 0050 train loss : 0.0028
+        Epoch: 0060 train loss : 0.0026
+        Epoch: 0070 train loss : 0.0024
+        Epoch: 0080 train loss : 0.0023
+        Epoch: 0090 train loss : 0.0022
+        Epoch: 0100 train loss : 0.0021
+        Epoch: 0110 train loss : 0.0020
+        Epoch: 0120 train loss : 0.0020
+        Epoch: 0130 train loss : 0.0019
+        Epoch: 0140 train loss : 0.0020
+         => Early Stopping
+         [[2329.6   61.6]
+ [3126.8  212.7]
+ [3395.4  248.6]
+ ...
+ [2004.   686.8]
+ [1981.6  685.9]
+ [2003.   687.9]] [[3233.4  264.3]
+ [3271.4  267.4]
+ [3340.4  270.5]
+ ...
+ [1994.7  680.1]
+ [1985.3  682. ]
+ [1975.2  684. ]]
+        MAE SCORE :  0.021687843
+        MSE SCORE :  0.0036366817
+        MAE SCORE_inv :  51.42531285332055
+        MSE SCORE_inv :  11193.809673080294
+training building  2 .....
+        Epoch: 0000 train loss : 0.0720
+        Epoch: 0010 train loss : 0.0021
+        Epoch: 0020 train loss : 0.0017
+        Epoch: 0030 train loss : 0.0014
+        Epoch: 0040 train loss : 0.0013
+        Epoch: 0050 train loss : 0.0011
+        Epoch: 0060 train loss : 0.0010
+        Epoch: 0070 train loss : 0.0009
+        Epoch: 0080 train loss : 0.0009
+        Epoch: 0090 train loss : 0.0008
+        Epoch: 0100 train loss : 0.0008
+        Epoch: 0110 train loss : 0.0008
+        Epoch: 0120 train loss : 0.0008
+        Epoch: 0130 train loss : 0.0008
+         => Early Stopping
+         [[1235.7  640.6]
+ [1447.7  716.6]
+ [1606.6  744. ]
+ ...
+ [1160.9  711.5]
+ [1155.5  715.2]
+ [1160.3  716.1]] [[1847.2  747.1]
+ [1926.9  748.8]
+ [1992.2  750.6]
+ ...
+ [1247.9  709.9]
+ [1164.5  711. ]
+ [1186.1  712.1]]
+        MAE SCORE :  0.007965107
+        MSE SCORE :  0.0015818286
+        MAE SCORE_inv :  40.726713746661886
+        MSE SCORE_inv :  6561.131934944167
+training building  3 .....
+        Epoch: 0000 train loss : 0.1405
+        Epoch: 0010 train loss : 0.0068
+        Epoch: 0020 train loss : 0.0053
+        Epoch: 0030 train loss : 0.0044
+        Epoch: 0040 train loss : 0.0038
+        Epoch: 0050 train loss : 0.0036
+        Epoch: 0060 train loss : 0.0033
+        Epoch: 0070 train loss : 0.0032
+        Epoch: 0080 train loss : 0.0031
+        Epoch: 0090 train loss : 0.0030
+        Epoch: 0100 train loss : 0.0029
+        Epoch: 0110 train loss : 0.0029
+        Epoch: 0120 train loss : 0.0028
+        Epoch: 0130 train loss : 0.0028
+         => Early Stopping
+         [[2344.9  103.1]
+ [3011.9  197.8]
+ [3347.8  227.9]
+ ...
+ [2001.2  417.3]
+ [1961.   415.2]
+ [1967.4  416.8]] [[3248.7  279.9]
+ [3265.2  283. ]
+ [3355.1  286.1]
+ ...
+ [2009.9  418. ]
+ [1986.3  420. ]
+ [1972.6  421.9]]
+        MAE SCORE :  0.028102413
+        MSE SCORE :  0.005233909
+        MAE SCORE_inv :  59.543700502271065
+        MSE SCORE_inv :  13669.416223532971
+training building  4 .....
+        Epoch: 0000 train loss : 0.1607
+        Epoch: 0010 train loss : 0.0041
+        Epoch: 0020 train loss : 0.0030
+        Epoch: 0030 train loss : 0.0023
+        Epoch: 0040 train loss : 0.0019
+        Epoch: 0050 train loss : 0.0017
+        Epoch: 0060 train loss : 0.0016
+        Epoch: 0070 train loss : 0.0015
+        Epoch: 0080 train loss : 0.0014
+        Epoch: 0090 train loss : 0.0013
+        Epoch: 0100 train loss : 0.0013
+        Epoch: 0110 train loss : 0.0013
+        Epoch: 0120 train loss : 0.0012
+        Epoch: 0130 train loss : 0.0012
+        Epoch: 0140 train loss : 0.0012
+         [[1256.7  607.1]
+ [1754.2  693.8]
+ [1991.6  730.3]
+ ...
+ [1171.9  603.7]
+ [1150.   608. ]
+ [1102.1  609.9]] [[1833.3  724.6]
+ [1938.8  726.3]
+ [2002.7  728. ]
+ ...
+ [1242.8  603.9]
+ [1152.5  605. ]
+ [1183.5  606.1]]
+        MAE SCORE :  0.016661203
+        MSE SCORE :  0.0023166973
+        MAE SCORE_inv :  28.94627141411528
+        MSE SCORE_inv :  4473.236034393296
+training building  5 .....
+        Epoch: 0000 train loss : 0.1740
+        Epoch: 0010 train loss : 0.0057
+        Epoch: 0020 train loss : 0.0042
+        Epoch: 0030 train loss : 0.0033
+        Epoch: 0040 train loss : 0.0028
+        Epoch: 0050 train loss : 0.0025
+        Epoch: 0060 train loss : 0.0022
+        Epoch: 0070 train loss : 0.0021
+        Epoch: 0080 train loss : 0.0019
+        Epoch: 0090 train loss : 0.0019
+        Epoch: 0100 train loss : 0.0017
+        Epoch: 0110 train loss : 0.0017
+        Epoch: 0120 train loss : 0.0017
+        Epoch: 0130 train loss : 0.0016
+        Epoch: 0140 train loss : 0.0016
+         [[1854.3  525.9]
+ [2413.9  671.6]
+ [2622.3  687.9]
+ ...
+ [1650.8  500.7]
+ [1630.8  501.3]
+ [1637.4  502.2]] [[2505.4  681.8]
+ [2536.6  684.2]
+ [2654.1  686.6]
+ ...
+ [1663.6  500.1]
+ [1643.4  501.7]
+ [1623.8  503.3]]
+        MAE SCORE :  0.018164152
+        MSE SCORE :  0.0032313508
+        MAE SCORE_inv :  38.02840422563611
+        MSE SCORE_inv :  7218.5844741625615
+training building  6 .....
+        Epoch: 0000 train loss : 0.1729
+        Epoch: 0010 train loss : 0.0038
+        Epoch: 0020 train loss : 0.0027
+        Epoch: 0030 train loss : 0.0023
+        Epoch: 0040 train loss : 0.0021
+        Epoch: 0050 train loss : 0.0018
+        Epoch: 0060 train loss : 0.0016
+        Epoch: 0070 train loss : 0.0015
+        Epoch: 0080 train loss : 0.0013
+        Epoch: 0090 train loss : 0.0012
+        Epoch: 0100 train loss : 0.0011
+        Epoch: 0110 train loss : 0.0011
+        Epoch: 0120 train loss : 0.0010
+        Epoch: 0130 train loss : 0.0010
+        Epoch: 0140 train loss : 0.0010
+         [[468.3  42. ]
+ [787.5  72. ]
+ [820.4  80.4]
+ ...
+ [370.5 351.2]
+ [343.9 349.7]
+ [335.5 348.4]] [[775.8  89.8]
+ [789.4  90.6]
+ [763.   91.3]
+ ...
+ [346.9 348.8]
+ [351.9 349.1]
+ [357.9 349.4]]
+        MAE SCORE :  0.019559158
+        MSE SCORE :  0.0020925454
+        MAE SCORE_inv :  17.933950784749985
+        MSE SCORE_inv :  1844.4802719858
+training building  7 .....
+        Epoch: 0000 train loss : 0.1600
+        Epoch: 0010 train loss : 0.0074
+        Epoch: 0020 train loss : 0.0050
+        Epoch: 0030 train loss : 0.0039
+        Epoch: 0040 train loss : 0.0035
+        Epoch: 0050 train loss : 0.0033
+        Epoch: 0060 train loss : 0.0031
+        Epoch: 0070 train loss : 0.0030
+        Epoch: 0080 train loss : 0.0029
+        Epoch: 0090 train loss : 0.0029
+        Epoch: 0100 train loss : 0.0028
+        Epoch: 0110 train loss : 0.0028
+        Epoch: 0120 train loss : 0.0028
+         => Early Stopping
+         [[107.7 993.6]
+ [129.2 990.4]
+ [118.9 990.3]
+ ...
+ [134.1 394.7]
+ [125.8 394.9]
+ [123.2 393.6]] [[146.5 982.4]
+ [117.3 982.5]
+ [166.1 982.5]
+ ...
+ [128.  374.5]
+ [128.7 374.6]
+ [132.7 374.8]]
+        MAE SCORE :  0.035380106
+        MSE SCORE :  0.009672922
+        MAE SCORE_inv :  13.789126861484178
+        MSE SCORE_inv :  1275.000075118222
+training building  8 .....
+        Epoch: 0000 train loss : 0.2469
+        Epoch: 0010 train loss : 0.0032
+        Epoch: 0020 train loss : 0.0021
+        Epoch: 0030 train loss : 0.0018
+        Epoch: 0040 train loss : 0.0016
+        Epoch: 0050 train loss : 0.0014
+        Epoch: 0060 train loss : 0.0012
+        Epoch: 0070 train loss : 0.0011
+        Epoch: 0080 train loss : 0.0010
+        Epoch: 0090 train loss : 0.0010
+        Epoch: 0100 train loss : 0.0009
+        Epoch: 0110 train loss : 0.0009
+        Epoch: 0120 train loss : 0.0009
+        Epoch: 0130 train loss : 0.0008
+        Epoch: 0140 train loss : 0.0008
+         [[411.  350.6]
+ [455.5 373.8]
+ [488.8 381.6]
+ ...
+ [367.6 837.8]
+ [360.9 838.1]
+ [358.2 838.9]] [[478.9 380.8]
+ [475.2 381.2]
+ [516.3 381.7]
+ ...
+ [366.2 844. ]
+ [358.8 844.3]
+ [366.6 844.6]]
+        MAE SCORE :  0.016522123
+        MSE SCORE :  0.0015231614
+        MAE SCORE_inv :  12.06297281127788
+        MSE SCORE_inv :  1187.0335764972615
+training building  9 .....
+        Epoch: 0000 train loss : 0.1411
+        Epoch: 0010 train loss : 0.0032
+        Epoch: 0020 train loss : 0.0020
+        Epoch: 0030 train loss : 0.0016
+        Epoch: 0040 train loss : 0.0013
+        Epoch: 0050 train loss : 0.0012
+        Epoch: 0060 train loss : 0.0011
+        Epoch: 0070 train loss : 0.0009
+        Epoch: 0080 train loss : 0.0009
+        Epoch: 0090 train loss : 0.0008
+        Epoch: 0100 train loss : 0.0008
+        Epoch: 0110 train loss : 0.0008
+        Epoch: 0120 train loss : 0.0007
+        Epoch: 0130 train loss : 0.0007
+        Epoch: 0140 train loss : 0.0007
+         [[498.4 671.9]
+ [622.6 697.6]
+ [657.5 701.4]
+ ...
+ [382.8 449.5]
+ [379.8 448.4]
+ [380.9 449.7]] [[614.  713.4]
+ [630.7 714. ]
+ [662.3 714.6]
+ ...
+ [389.5 450.5]
+ [385.3 450.9]
+ [388.5 451.3]]
+        MAE SCORE :  0.014501933
+        MSE SCORE :  0.0014856112
+        MAE SCORE_inv :  8.681628798000801
+        MSE SCORE_inv :  1006.1795533488956
+training building  10 .....
+        Epoch: 0000 train loss : 0.1508
+        Epoch: 0010 train loss : 0.0058
+        Epoch: 0020 train loss : 0.0043
+        Epoch: 0030 train loss : 0.0037
+        Epoch: 0040 train loss : 0.0034
+        Epoch: 0050 train loss : 0.0032
+        Epoch: 0060 train loss : 0.0031
+        Epoch: 0070 train loss : 0.0030
+        Epoch: 0080 train loss : 0.0030
+        Epoch: 0090 train loss : 0.0029
+        Epoch: 0100 train loss : 0.0028
+        Epoch: 0110 train loss : 0.0028
+        Epoch: 0120 train loss : 0.0027
+        Epoch: 0130 train loss : 0.0027
+        Epoch: 0140 train loss : 0.0026
+lstm.py:174: RuntimeWarning: More than 20 figures have been opened. Figures created through the pyplot interface (`matplotlib.pyplot.figure`) are retained until explicitly closed and may consume too much memory. (To control this warning, see the rcParam `figure.max_open_warning`).
+  fig = plt.figure(figsize=(10, 4))
+         [[573.1 489. ]
+ [715.5 529.1]
+ [799.7 550.7]
+ ...
+ [457.8   3.1]
+ [466.3   6.7]
+ [449.4  12. ]] [[767.3 542.2]
+ [786.1 542.9]
+ [750.  543.6]
+ ...
+ [490.1  15.9]
+ [438.2  16.3]
+ [435.1  16.7]]
+        MAE SCORE :  0.03381671
+        MSE SCORE :  0.0034903425
+        MAE SCORE_inv :  22.07299556672811
+        MSE SCORE_inv :  1764.4336449599875
+training building  11 .....
+        Epoch: 0000 train loss : 0.0803
+        Epoch: 0010 train loss : 0.0013
+        Epoch: 0020 train loss : 0.0008
+        Epoch: 0030 train loss : 0.0006
+        Epoch: 0040 train loss : 0.0005
+        Epoch: 0050 train loss : 0.0005
+        Epoch: 0060 train loss : 0.0004
+        Epoch: 0070 train loss : 0.0004
+        Epoch: 0080 train loss : 0.0003
+        Epoch: 0090 train loss : 0.0003
+        Epoch: 0100 train loss : 0.0003
+        Epoch: 0110 train loss : 0.0003
+        Epoch: 0120 train loss : 0.0003
+        Epoch: 0130 train loss : 0.0003
+        Epoch: 0140 train loss : 0.0003
+         [[130.7 693.4]
+ [225.9 700. ]
+ [255.8 705.2]
+ ...
+ [121.2 743.4]
+ [122.8 743.6]
+ [120.  743.1]] [[267.8 720.3]
+ [252.  720.5]
+ [273.1 720.8]
+ ...
+ [135.7 748.9]
+ [125.4 749. ]
+ [122.3 749.1]]
+        MAE SCORE :  0.010021156
+        MSE SCORE :  0.00062287954
+        MAE SCORE_inv :  11.035122128863286
+        MSE SCORE_inv :  687.3419243270101
+training building  12 .....
+        Epoch: 0000 train loss : 0.0851
+        Epoch: 0010 train loss : 0.0041
+        Epoch: 0020 train loss : 0.0031
+        Epoch: 0030 train loss : 0.0028
+        Epoch: 0040 train loss : 0.0026
+        Epoch: 0050 train loss : 0.0024
+        Epoch: 0060 train loss : 0.0022
+        Epoch: 0070 train loss : 0.0021
+        Epoch: 0080 train loss : 0.0020
+        Epoch: 0090 train loss : 0.0020
+        Epoch: 0100 train loss : 0.0019
+        Epoch: 0110 train loss : 0.0019
+        Epoch: 0120 train loss : 0.0019
+        Epoch: 0130 train loss : 0.0019
+        Epoch: 0140 train loss : 0.0018
+         [[217.  382. ]
+ [311.7 387.4]
+ [328.9 396.7]
+ ...
+ [247.3 435.9]
+ [243.8 434. ]
+ [234.2 431.7]] [[328.8 400.7]
+ [324.5 401. ]
+ [321.2 401.3]
+ ...
+ [268.7 429.4]
+ [256.3 429.6]
+ [235.3 429.9]]
+        MAE SCORE :  0.027019676
+        MSE SCORE :  0.0026935115
+        MAE SCORE_inv :  11.778351112468515
+        MSE SCORE_inv :  785.9413056756539
+training building  13 .....
+        Epoch: 0000 train loss : 0.1301
+        Epoch: 0010 train loss : 0.0046
+        Epoch: 0020 train loss : 0.0034
+        Epoch: 0030 train loss : 0.0031
+        Epoch: 0040 train loss : 0.0029
+        Epoch: 0050 train loss : 0.0028
+        Epoch: 0060 train loss : 0.0027
+        Epoch: 0070 train loss : 0.0027
+        Epoch: 0080 train loss : 0.0027
+        Epoch: 0090 train loss : 0.0026
+        Epoch: 0100 train loss : 0.0026
+        Epoch: 0110 train loss : 0.0026
+        Epoch: 0120 train loss : 0.0026
+        Epoch: 0130 train loss : 0.0025
+        Epoch: 0140 train loss : 0.0026
+         => Early Stopping
+         [[ 41.3 254.4]
+ [ 63.2 254.9]
+ [ 76.2 256.1]
+ ...
+ [ 20.4 682.5]
+ [ 18.9 681.9]
+ [ 17.6 681.1]] [[ 72.1 252.6]
+ [ 84.4 252.7]
+ [ 75.9 252.8]
+ ...
+ [ 19.6 680.3]
+ [ 18.5 680.3]
+ [ 18.9 680.3]]
+        MAE SCORE :  0.029927159
+        MSE SCORE :  0.0033288612
+        MAE SCORE_inv :  4.6478006042680775
+        MSE SCORE_inv :  56.52444643355076
+training building  14 .....
+        Epoch: 0000 train loss : 0.1663
+        Epoch: 0010 train loss : 0.0031
+        Epoch: 0020 train loss : 0.0021
+        Epoch: 0030 train loss : 0.0019
+        Epoch: 0040 train loss : 0.0017
+        Epoch: 0050 train loss : 0.0015
+        Epoch: 0060 train loss : 0.0015
+        Epoch: 0070 train loss : 0.0014
+        Epoch: 0080 train loss : 0.0014
+        Epoch: 0090 train loss : 0.0013
+        Epoch: 0100 train loss : 0.0013
+        Epoch: 0110 train loss : 0.0013
+         => Early Stopping
+         [[ 24.1 468.8]
+ [ 32.7 469.9]
+ [ 36.4 469.1]
+ ...
+ [ 54.8  26.7]
+ [ 52.7  26.4]
+ [ 50.   26. ]] [[ 34.7 469. ]
+ [ 33.8 469. ]
+ [ 47.8 469.1]
+ ...
+ [ 54.5  33.4]
+ [ 49.8  33.4]
+ [ 49.8  33.5]]
+        MAE SCORE :  0.01972717
+        MSE SCORE :  0.0015515134
+        MAE SCORE_inv :  4.73477655672865
+        MSE SCORE_inv :  300.9269474285565
+training building  15 .....
+        Epoch: 0000 train loss : 0.2875
+        Epoch: 0010 train loss : 0.0174
+        Epoch: 0020 train loss : 0.0115
+        Epoch: 0030 train loss : 0.0085
+        Epoch: 0040 train loss : 0.0068
+        Epoch: 0050 train loss : 0.0059
+        Epoch: 0060 train loss : 0.0055
+        Epoch: 0070 train loss : 0.0052
+        Epoch: 0080 train loss : 0.0050
+        Epoch: 0090 train loss : 0.0048
+        Epoch: 0100 train loss : 0.0047
+        Epoch: 0110 train loss : 0.0046
+        Epoch: 0120 train loss : 0.0045
+        Epoch: 0130 train loss : 0.0044
+        Epoch: 0140 train loss : 0.0043
+         [[  9.6 405.2]
+ [ 15.  406.7]
+ [ 17.9 406.7]
+ ...
+ [-15.  514.6]
+ [ -9.  514.6]
+ [ -3.6 514.5]] [[  0.  404.7]
+ [  0.  404.7]
+ [  0.  404.7]
+ ...
+ [  0.  516.6]
+ [  0.  516.6]
+ [  0.  516.6]]
+        MAE SCORE :  0.03028665
+        MSE SCORE :  0.005926703
+        MAE SCORE_inv :  9.64289961913474
+        MSE SCORE_inv :  678.3984496238079
+training building  16 .....
+        Epoch: 0000 train loss : 0.1873
+        Epoch: 0010 train loss : 0.0115
+        Epoch: 0020 train loss : 0.0079
+        Epoch: 0030 train loss : 0.0059
+        Epoch: 0040 train loss : 0.0048
+        Epoch: 0050 train loss : 0.0042
+        Epoch: 0060 train loss : 0.0041
+        Epoch: 0070 train loss : 0.0039
+        Epoch: 0080 train loss : 0.0037
+        Epoch: 0090 train loss : 0.0036
+        Epoch: 0100 train loss : 0.0035
+        Epoch: 0110 train loss : 0.0034
+        Epoch: 0120 train loss : 0.0033
+        Epoch: 0130 train loss : 0.0033
+        Epoch: 0140 train loss : 0.0032
+         [[-1.9 47.3]
+ [ 0.8 47.4]
+ [ 5.5 47.5]
+ ...
+ [-7.  40.9]
+ [-5.  40.8]
+ [-2.8 40.7]] [[ 0.  47.7]
+ [ 0.  47.7]
+ [ 0.  47.7]
+ ...
+ [ 0.  41.7]
+ [ 0.  41.7]
+ [ 0.  41.7]]
+        MAE SCORE :  0.027335044
+        MSE SCORE :  0.0053226314
+        MAE SCORE_inv :  6.788818083892317
+        MSE SCORE_inv :  362.5798442889344
+training building  17 .....
+        Epoch: 0000 train loss : 0.1632
+        Epoch: 0010 train loss : 0.0096
+        Epoch: 0020 train loss : 0.0063
+        Epoch: 0030 train loss : 0.0050
+        Epoch: 0040 train loss : 0.0040
+        Epoch: 0050 train loss : 0.0035
+        Epoch: 0060 train loss : 0.0031
+        Epoch: 0070 train loss : 0.0029
+        Epoch: 0080 train loss : 0.0027
+        Epoch: 0090 train loss : 0.0026
+        Epoch: 0100 train loss : 0.0025
+        Epoch: 0110 train loss : 0.0024
+        Epoch: 0120 train loss : 0.0023
+        Epoch: 0130 train loss : 0.0023
+        Epoch: 0140 train loss : 0.0021
+         [[153.8 242.9]
+ [177.5 241.2]
+ [194.9 243.4]
+ ...
+ [313.8 853.9]
+ [316.6 853. ]
+ [312.2 852.7]] [[184.2 245.4]
+ [193.3 245.6]
+ [191.1 245.7]
+ ...
+ [306.2 862.1]
+ [293.7 862.4]
+ [299.2 862.7]]
+        MAE SCORE :  0.030037792
+        MSE SCORE :  0.0031344115
+        MAE SCORE_inv :  17.69617343500358
+        MSE SCORE_inv :  1561.6407991064798
+training building  18 .....
+        Epoch: 0000 train loss : 0.1747
+        Epoch: 0010 train loss : 0.0109
+        Epoch: 0020 train loss : 0.0078
+        Epoch: 0030 train loss : 0.0062
+        Epoch: 0040 train loss : 0.0053
+        Epoch: 0050 train loss : 0.0048
+        Epoch: 0060 train loss : 0.0045
+        Epoch: 0070 train loss : 0.0044
+        Epoch: 0080 train loss : 0.0043
+        Epoch: 0090 train loss : 0.0042
+        Epoch: 0100 train loss : 0.0041
+        Epoch: 0110 train loss : 0.0041
+         => Early Stopping
+         [[ 31.2 164.9]
+ [ 37.9 165.9]
+ [ 44.8 168.5]
+ ...
+ [ 61.3 848.7]
+ [ 61.9 848.2]
+ [ 63.7 846.4]] [[ 37.7 194. ]
+ [ 39.3 194. ]
+ [ 45.  194. ]
+ ...
+ [ 55.  857.1]
+ [ 65.1 857.1]
+ [ 63.4 857.2]]
+        MAE SCORE :  0.043856323
+        MSE SCORE :  0.0048682895
+        MAE SCORE_inv :  8.653741316406094
+        MSE SCORE_inv :  233.63870765710953
+training building  19 .....
+        Epoch: 0000 train loss : 0.1907
+        Epoch: 0010 train loss : 0.0144
+        Epoch: 0020 train loss : 0.0077
+        Epoch: 0030 train loss : 0.0058
+        Epoch: 0040 train loss : 0.0050
+        Epoch: 0050 train loss : 0.0045
+        Epoch: 0060 train loss : 0.0041
+        Epoch: 0070 train loss : 0.0039
+        Epoch: 0080 train loss : 0.0036
+        Epoch: 0090 train loss : 0.0034
+        Epoch: 0100 train loss : 0.0033
+        Epoch: 0110 train loss : 0.0032
+        Epoch: 0120 train loss : 0.0031
+        Epoch: 0130 train loss : 0.0032
+         => Early Stopping
+         [[658.5 683.9]
+ [665.7 693.9]
+ [677.6 709.6]
+ ...
+ [769.9 546.6]
+ [769.8 545.3]
+ [772.6 544.1]] [[657.8 749.2]
+ [657.8 749.7]
+ [680.5 750.3]
+ ...
+ [790.9 545.5]
+ [792.9 546.2]
+ [752.9 546.9]]
+        MAE SCORE :  0.042212576
+        MSE SCORE :  0.0060089016
+        MAE SCORE_inv :  31.65017054107319
+        MSE SCORE_inv :  3920.09497064493
+training building  20 .....
+        Epoch: 0000 train loss : 0.2800
+        Epoch: 0010 train loss : 0.0189
+        Epoch: 0020 train loss : 0.0084
+        Epoch: 0030 train loss : 0.0063
+        Epoch: 0040 train loss : 0.0053
+        Epoch: 0050 train loss : 0.0049
+        Epoch: 0060 train loss : 0.0047
+        Epoch: 0070 train loss : 0.0046
+        Epoch: 0080 train loss : 0.0045
+        Epoch: 0090 train loss : 0.0044
+        Epoch: 0100 train loss : 0.0043
+        Epoch: 0110 train loss : 0.0042
+        Epoch: 0120 train loss : 0.0041
+        Epoch: 0130 train loss : 0.0041
+        Epoch: 0140 train loss : 0.0040
+         [[ 24.5 605.8]
+ [ 28.6 604.4]
+ [ 31.5 602.8]
+ ...
+ [ 36.5  85.1]
+ [ 35.7  86.5]
+ [ 35.   87.6]] [[ 28.4 601.7]
+ [ 28.5 601.7]
+ [ 28.  601.7]
+ ...
+ [ 37.2  85.6]
+ [ 37.5  85.7]
+ [ 34.7  85.7]]
+        MAE SCORE :  0.04093485
+        MSE SCORE :  0.0054604397
+        MAE SCORE_inv :  7.496045555225037
+        MSE SCORE_inv :  866.5698750681878
+training building  21 .....
+        Epoch: 0000 train loss : 0.2424
+        Epoch: 0010 train loss : 0.0099
+        Epoch: 0020 train loss : 0.0059
+        Epoch: 0030 train loss : 0.0042
+        Epoch: 0040 train loss : 0.0038
+        Epoch: 0050 train loss : 0.0034
+        Epoch: 0060 train loss : 0.0031
+        Epoch: 0070 train loss : 0.0029
+        Epoch: 0080 train loss : 0.0027
+        Epoch: 0090 train loss : 0.0025
+        Epoch: 0100 train loss : 0.0024
+        Epoch: 0110 train loss : 0.0023
+        Epoch: 0120 train loss : 0.0023
+        Epoch: 0130 train loss : 0.0022
+        Epoch: 0140 train loss : 0.0022
+         [[100.3 570.1]
+ [103.2 563.6]
+ [107.3 560.2]
+ ...
+ [119.5 932.6]
+ [118.8 934.4]
+ [116.7 937.2]] [[ 96.9 552.5]
+ [103.7 552.6]
+ [103.8 552.7]
+ ...
+ [118.9 935.3]
+ [111.8 935.4]
+ [116.8 935.6]]
+        MAE SCORE :  0.033780765
+        MSE SCORE :  0.0034594864
+        MAE SCORE_inv :  9.790561190065073
+        MSE SCORE_inv :  767.3652160972063
+training building  22 .....
+        Epoch: 0000 train loss : 0.1305
+        Epoch: 0010 train loss : 0.0146
+        Epoch: 0020 train loss : 0.0063
+        Epoch: 0030 train loss : 0.0045
+        Epoch: 0040 train loss : 0.0039
+        Epoch: 0050 train loss : 0.0036
+        Epoch: 0060 train loss : 0.0033
+        Epoch: 0070 train loss : 0.0031
+        Epoch: 0080 train loss : 0.0029
+        Epoch: 0090 train loss : 0.0028
+        Epoch: 0100 train loss : 0.0027
+        Epoch: 0110 train loss : 0.0026
+        Epoch: 0120 train loss : 0.0025
+        Epoch: 0130 train loss : 0.0024
+        Epoch: 0140 train loss : 0.0023
+         [[108.9 148.8]
+ [124.  142.2]
+ [137.6 135.3]
+ ...
+ [102.3 840.1]
+ [ 98.4 840.7]
+ [ 94.4 841.9]] [[124.8 152.1]
+ [129.2 152.2]
+ [124.6 152.3]
+ ...
+ [102.  845.7]
+ [ 95.7 845.8]
+ [ 97.2 845.9]]
+        MAE SCORE :  0.03088074
+        MSE SCORE :  0.0036469358
+        MAE SCORE_inv :  12.722831659987696
+        MSE SCORE_inv :  1448.8968726328426
+training building  23 .....
+        Epoch: 0000 train loss : 0.6011
+        Epoch: 0010 train loss : 0.0248
+        Epoch: 0020 train loss : 0.0154
+        Epoch: 0030 train loss : 0.0092
+        Epoch: 0040 train loss : 0.0085
+        Epoch: 0050 train loss : 0.0080
+        Epoch: 0060 train loss : 0.0078
+        Epoch: 0070 train loss : 0.0077
+        Epoch: 0080 train loss : 0.0075
+        Epoch: 0090 train loss : 0.0074
+        Epoch: 0100 train loss : 0.0073
+        Epoch: 0110 train loss : 0.0073
+        Epoch: 0120 train loss : 0.0072
+        Epoch: 0130 train loss : 0.0072
+        Epoch: 0140 train loss : 0.0072
+         => Early Stopping
+         [[  8.5 869. ]
+ [ 13.9 866.7]
+ [ 15.4 865.2]
+ ...
+ [ 14.3  17.1]
+ [ 14.4  14.6]
+ [ 13.8  12.6]] [[ 28.4 877.9]
+ [ 10.3 877.9]
+ [ 10.4 877.9]
+ ...
+ [ 16.1  29.4]
+ [ 10.9  29.4]
+ [ 15.3  29.4]]
+        MAE SCORE :  0.04979347
+        MSE SCORE :  0.0079690125
+        MAE SCORE_inv :  7.882143296879165
+        MSE SCORE_inv :  1330.5897928677825
+training building  24 .....
+        Epoch: 0000 train loss : 0.3093
+        Epoch: 0010 train loss : 0.0231
+        Epoch: 0020 train loss : 0.0075
+        Epoch: 0030 train loss : 0.0061
+        Epoch: 0040 train loss : 0.0056
+        Epoch: 0050 train loss : 0.0052
+        Epoch: 0060 train loss : 0.0050
+        Epoch: 0070 train loss : 0.0048
+        Epoch: 0080 train loss : 0.0048
+        Epoch: 0090 train loss : 0.0045
+        Epoch: 0100 train loss : 0.0044
+        Epoch: 0110 train loss : 0.0044
+        Epoch: 0120 train loss : 0.0042
+        Epoch: 0130 train loss : 0.0041
+        Epoch: 0140 train loss : 0.0040
+         [[ 33.6 478.2]
+ [ 47.5 476.5]
+ [ 58.6 478.8]
+ ...
+ [ 53.1 268.6]
+ [ 51.5 263.7]
+ [ 43.8 267.7]] [[ 61.5 496.3]
+ [ 65.2 496.4]
+ [ 61.8 496.4]
+ ...
+ [ 69.1 270.1]
+ [ 38.6 270.2]
+ [ 52.8 270.2]]
+        MAE SCORE :  0.045949124
+        MSE SCORE :  0.0067074946
+        MAE SCORE_inv :  10.17538228067411
+        MSE SCORE_inv :  849.5820344849396
+training building  25 .....
+        Epoch: 0000 train loss : 0.2506
+        Epoch: 0010 train loss : 0.0146
+        Epoch: 0020 train loss : 0.0106
+        Epoch: 0030 train loss : 0.0064
+        Epoch: 0040 train loss : 0.0054
+        Epoch: 0050 train loss : 0.0048
+        Epoch: 0060 train loss : 0.0045
+        Epoch: 0070 train loss : 0.0044
+        Epoch: 0080 train loss : 0.0042
+        Epoch: 0090 train loss : 0.0040
+        Epoch: 0100 train loss : 0.0039
+        Epoch: 0110 train loss : 0.0038
+        Epoch: 0120 train loss : 0.0037
+        Epoch: 0130 train loss : 0.0036
+        Epoch: 0140 train loss : 0.0035
+         [[ 53.8 754.1]
+ [ 65.4 752.4]
+ [ 78.4 750.1]
+ ...
+ [ 74.6 884.8]
+ [ 74.8 884.5]
+ [ 75.2 884.4]] [[ 70.7 748.7]
+ [ 79.3 748.7]
+ [ 83.7 748.8]
+ ...
+ [ 81.  876.7]
+ [ 84.5 876.8]
+ [ 79.1 876.9]]
+        MAE SCORE :  0.03926025
+        MSE SCORE :  0.0055107116
+        MAE SCORE_inv :  11.466326704803778
+        MSE SCORE_inv :  787.9468490144541
+training building  26 .....
+        Epoch: 0000 train loss : 0.2860
+        Epoch: 0010 train loss : 0.0142
+        Epoch: 0020 train loss : 0.0088
+        Epoch: 0030 train loss : 0.0060
+        Epoch: 0040 train loss : 0.0051
+        Epoch: 0050 train loss : 0.0045
+        Epoch: 0060 train loss : 0.0041
+        Epoch: 0070 train loss : 0.0039
+        Epoch: 0080 train loss : 0.0037
+        Epoch: 0090 train loss : 0.0037
+        Epoch: 0100 train loss : 0.0035
+        Epoch: 0110 train loss : 0.0034
+        Epoch: 0120 train loss : 0.0033
+        Epoch: 0130 train loss : 0.0032
+        Epoch: 0140 train loss : 0.0031
+         [[ 48.7 309.7]
+ [ 51.2 316.1]
+ [ 53.1 319.4]
+ ...
+ [ 66.3 279.9]
+ [ 64.3 281.5]
+ [ 63.4 282.2]] [[ 45.5 313.3]
+ [ 43.6 313.4]
+ [ 45.3 313.4]
+ ...
+ [ 63.5 277.7]
+ [ 63.6 277.7]
+ [ 57.3 277.8]]
+        MAE SCORE :  0.03698626
+        MSE SCORE :  0.0050953086
+        MAE SCORE_inv :  8.036564551891923
+        MSE SCORE_inv :  584.880493198565
