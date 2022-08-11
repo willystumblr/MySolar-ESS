@@ -20,5 +20,5 @@ path: `solar_power_prediction/Model.ipynb` \
 LSTM을 활용하여 건물별로 값을 예측함 (14개의 모델 활용). 다양한 parameter를 넣어준 후, [R^2](https://ko.wikipedia.org/wiki/%EA%B2%B0%EC%A0%95%EA%B3%84%EC%88%98) 값이 가장 큰 것을 최종 선택하여 target 데이터 예측에 활용함.
 ## Prediction
 ### 1. Solar Power Prediction
-path: `outputs_0629/*/prediction.csv` \
+path: `outputs_0629/*/prediction.csv` & `./aggregated_0629.csv`\
 2022/6/29, 모델에 넣어준 feature를 통일시키기 위해 당일의 기상청 데이터를 활용하여 건물별 24시간 시간당발전량 예측값을 csv 형태로 저장함. \
