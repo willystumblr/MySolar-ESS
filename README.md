@@ -3,6 +3,12 @@ GIST 창의융합경진대회
 
 Reference 
 * https://github.com/shubhamchouksey/Power-Prediction-LSTM
+
+## Bill
+한전공식 전기요금표 참고: https://cyber.kepco.co.kr/ckepco/front/jsp/CY/E/E/CYEEHP00104.jsp \
+* 적용일자 - 2021년 1월 1일 기준: 921500730원
+* 적용일자 - 2022년 4월 1일 기준: 882711820원
+
 ## EDA
 ### 1. Solar Power Prediction
 path: `solar_power_prediction/SolarPower EDA.ipynb` \
