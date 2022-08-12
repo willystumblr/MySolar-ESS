@@ -36,7 +36,7 @@ LSTM을 활용하여 건물별로 값을 예측함 (14개의 모델 활용). 다
 
 ### 2. Power Load Prediction
 path: `power load/lstm.py` \
-LSTM을 활용하여 건물별로 값을 예측함 (26개의 모델 활용). parameter 값을 달리하여 model1, model2, model3 생성하고 최종적으로 model3 사용. 각 폴더에 건물별 학습 모델 저장함. \
+LSTM을 활용하여 건물별로 값을 예측함 (26개의 모델 활용). parameter 값을 달리하여 model1, model2, model3 생성하고 최종적으로 model3 사용. 각 폴더에 건물별 학습 모델 저장함.
 
 ## Prediction
 ### 1. Solar Power Prediction
