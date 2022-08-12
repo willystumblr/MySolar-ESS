@@ -1,0 +1,10 @@
+data_dim = 7
+    hidden_dim = 100
+    output_dim = 2
+    learning_rate = 0.0001
+    nb_epochs = 150
+
+    # -일간의 데이터가 입력으로 들어가고 batch size는 임의로 지정
+    # ,date-time,day,temp,humid,active_power,active_energy
+    seq_length = 24*7*3
+    batch = 64
