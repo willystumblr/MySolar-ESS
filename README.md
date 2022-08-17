@@ -45,4 +45,4 @@ path: `outputs_0629/*/prediction.csv` & `./aggregated_0629.csv`\
 
 ### 2. Power Load Prediction
 path: `power load/predict.py`, `output_power&energy/*.csv` \
-2022/6/29, 태양광 발전량 예측과 마찬가지로 건물별 24시간 시간당발전량 예측값을 csv 형태로 저장함. "SV-2"~"고등광연구소(E)"까지의 건물을 0~26의 숫자로 각각 매핑한 결과(데이터셋에 있는 순)이며, power는 유효전력 energy는 유효전력량을 예측한 값임.
+2022/6/29, 태양광 발전량 예측과 마찬가지로 건물별 24시간 시간당발전량 예측값을 csv 형태로 저장함. \"SV-2\"\~\"고등광연구소(E)\"까지의 건물을 0~26의 숫자로 각각 매핑한 결과(데이터셋에 있는 순)이며, power는 유효전력 energy는 유효전력량을 예측한 값임.
