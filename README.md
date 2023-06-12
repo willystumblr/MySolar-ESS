@@ -1,10 +1,11 @@
 # MySolar-ESS
-GIST 창의융합경진대회
+GIST 창의융합경진대회 (2022-2023)
+* last modified: 2023-
 
-Reference 
-* https://github.com/shubhamchouksey/Power-Prediction-LSTM
+Reference
+* https://github.com/shubhamchouksey/Power-Prediction-LSTM 
 ## EDA
-### 1. Solar Power Prediction
+### 1. Solar Power Prediction 
 path: `solar_power_prediction/SolarPower EDA.ipynb` \
 기상청 시간단위 데이터 중, 시간당발전량(kWh)와 상관관계가 높게 나타났던 '기온(°C)', '강수량(mm)', '풍속(m/s)', '습도(%)', '증기압(hPa)', '이슬점온도(°C)', '일조(hr)', '일사(MJ/m2)', 'Cloud', 'Hour' 등을 feature로 활용하고, 이와 비슷한 정도의 상관관계를 보이던 '외기온도', '모듈온도' 등의 feature는 overfitting 방지를 위해 feature로 활용하지 않음.
 * categorical features: 'Cloud', 'Hour'
